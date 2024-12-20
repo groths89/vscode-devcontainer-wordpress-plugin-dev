@@ -19,7 +19,17 @@
 	"extensions": [
 		"felixfbecker.php-pack",
 		"wordpresstoolbox.wordpress-toolbox",
-		"johnbillion.vscode-wordpress-hooks"
+		"johnbillion.vscode-wordpress-hooks",
+		"esbenp.prettier-vscode",
+		"shevaua.phpcs",
+		"MehediDracula.php-namespace-resolver",
+		"bmewburn.vscode-intelephense-client",
+		"streetsidesoftware.code-spell-checker",
+		"formulahendry.auto-rename-tag",
+		"dbaeumer.vscode-eslint",
+		"HTMLHint.vscode-htmlhint",
+		"bradlc.vscode-tailwindcss",
+		"heybourn.headwind"
 	],
 
 	// Sets up WordPress on container start.
